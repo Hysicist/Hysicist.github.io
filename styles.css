@@ -1,0 +1,18 @@
+*{
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+.header{
+  text-align: center;  
+}
+.title{
+    font-size: 56px;
+    display: inline-block;
+    color: red;
+    margin-bottom: 30px;
+}
+.normal-text{
+    font-size: larger;
+    margin-bottom: 5px;
+}
